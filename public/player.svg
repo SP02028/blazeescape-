@@ -1,0 +1,7 @@
+<svg width="50" height="50" xmlns="http://www.w3.org/2000/svg">
+  <!-- Player character - simple spaceship/character -->
+  <rect x="15" y="10" width="20" height="30" fill="#00ff00" rx="5"/>
+  <circle cx="25" cy="20" r="8" fill="#00cc00"/>
+  <rect x="10" y="25" width="10" height="5" fill="#00ff00"/>
+  <rect x="30" y="25" width="10" height="5" fill="#00ff00"/>
+</svg>
